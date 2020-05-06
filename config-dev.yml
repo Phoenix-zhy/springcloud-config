@@ -1,4 +1,2 @@
-server:
-  port: 9527
 config:
   info: 3356
